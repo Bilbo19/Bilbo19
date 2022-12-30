@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bilbo19
+- 👋 Hi, I’m Bilel Friaa
 - 👀 I’m interested in music, art, video games, japan culture, mangas, and jewellery
 - 🌱 I’m currently learning Ruby On Rails, HTML, CSS, JS
 - 💞️ I’m looking to collaborate on Ruby on Rails, to evolve in this domain. My dream is to work with compagny who's working in the mangas world.
